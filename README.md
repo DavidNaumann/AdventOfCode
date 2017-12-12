@@ -1,5 +1,5 @@
 # Advent Of Code
-## Day 1 (Written in C++)
+## [Day 1](https://github.com/DavidTheNewKid/AdventOfCode/tree/master/DayOne) (Written in C++)
 ###### Part 1: Done
 ###### Part 2: Done
 ## Day 2
