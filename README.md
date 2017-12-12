@@ -1,5 +1,5 @@
 # Advent Of Code
-## Day 1
+## Day 1 (Written in C++)
 ###### Part 1: Done
 ###### Part 2: Done
 ## Day 2
