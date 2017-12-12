@@ -3,9 +3,9 @@
 ## [Day 1](./Days/Day1) (Written in C++)
 ###### Part 1: Done
 ###### Part 2: Done
-## [Day 2](./Days/Day2)
-###### Part 1: Not started
-###### Part 2: Not started
+## [Day 2](./Days/Day2) (Written in C++)
+###### Part 1: Done
+###### Part 2: Done
 ## Day 3
 ###### Part 1: Not started
 ###### Part 2: Not started
