@@ -9,7 +9,7 @@ int main()
   // Sum of part two
   int parttwo;
   // File it is reading
-  string currfile = "encrypted.txt";
+  string currfile = "./Inputs/input1.txt";
   // List of ints to store current numbers
   int listints[9999];
   
