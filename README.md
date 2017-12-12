@@ -1,5 +1,5 @@
 # Advent Of Code
-## [Day 1](./DayOne) (Written in C++)
+## [Day 1](./Days/DayOne) (Written in C++)
 ###### Part 1: Done
 ###### Part 2: Done
 ## Day 2
